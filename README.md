@@ -21,6 +21,8 @@ The project includes an example testing function run_tests() that demonstrates t
 The texts for each can also be found using this link:
 
 Rick Riordan Sample Text Link: https://www.penguin.com.au/books/percy-jackson-and-the-lightning-thief-book-1-9780141346809/extracts/1881-percy-jackson-and-the-lightning-thief
+
 Stephen King Sample Text Link: https://www.penguinrandomhouse.ca/books/92992/the-stand-by-stephen-king/9780307947307/excerpt
+
 JK Rowling Sample Text Link: https://www.bookbrowse.com/excerpts/index.cfm/book_number/452/page_number/1/harry-potter-and-the-sorcerers-stone#excerpt
 

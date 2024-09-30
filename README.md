@@ -1,14 +1,14 @@
 # Text Similarity Detection
 
 ## Table of Contents
-Introduction
-Features
-How It Works
-Usage
-Classes and Methods
-Demo Example
-Future Improvements
-License
+- [Introduction](#introduction)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Usage](#usage)
+- [Classes and Methods](#classes-and-methods)
+- [Demo Example](#demo-example)
+- [Further Improvements](#further-improvements)
+- [License](#license)
 
 ## Introduction
 
